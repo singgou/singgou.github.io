@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[59843,["/_next/static/chunks/0emyh461unzcx.js","/_next/static/chunks/356-rdp743_uf.js","/_next/static/chunks/1w7bqubhdf87m.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/1lp4hm-tlr-d9.js"],"default"]
+3:I[97367,["/_next/static/chunks/0emyh461unzcx.js","/_next/static/chunks/356-rdp743_uf.js","/_next/static/chunks/1w7bqubhdf87m.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"fairness-page","children":["$","section",null,{"children":[["$","p",null,{"children":"CRASH//TEST"}],["$","h1",null,{"children":"公平性说明"}],["$","ul",null,{"children":[["$","li",null,{"children":"当前仅为 TEST 测试积分演示，不具有现金价值。"}],["$","li",null,{"children":"每局结果在点击开始后独立生成并立即锁定。"}],["$","li",null,{"children":"倍率动画只负责展示，不决定最终游戏结果。"}],["$","li",null,{"children":"当前版本不是正式资金版本，不支持充值或提现。"}]]}],["$","$L2",null,{"href":"/games/kline-run","children":"返回游戏"}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/1lp4hm-tlr-d9.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"web3-game-b83a2e69ee029291619e"}
+5:null
